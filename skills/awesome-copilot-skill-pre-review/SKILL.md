@@ -1,6 +1,6 @@
 ---
 name: awesome-copilot-skill-pre-review
-description: "Awesome Copilotへの投稿候補となるAgent Skillを、公開基準・掲載例・既存資産に照らして投稿前に点検する。改善案と未確認事項を示す。メンテナーの公式レビューや採否判断は代行しない。Skill自体の作成・編集には使わない。"
+description: 'Awesome Copilotへの投稿候補となるAgent Skillを、公開基準・掲載例・既存資産に照らして投稿前に点検する。改善案と未確認事項を示す。メンテナーの公式レビューや採否判断は代行しない。Skill自体の作成・編集には使わない。'
 ---
 
 # Awesome Copilot Skill Pre-Review
@@ -116,3 +116,4 @@ description: "Awesome Copilotへの投稿候補となるAgent Skillを、公開�
 - [Awesome Copilot skills](https://github.com/github/awesome-copilot/tree/main/skills)
 - [VS Code Agent Skills](https://code.visualstudio.com/docs/copilot/customization/agent-skills)
 - [本スキルの評価ケース](references/evaluation-cases.md)
+- [Copilot実行評価記録](references/evaluation-results.md)
